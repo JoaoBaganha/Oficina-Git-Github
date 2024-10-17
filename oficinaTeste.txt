@@ -1,8 +1,6 @@
-OFICINA VERSIONAMENTO DE CÓDIGO COM GIT E GITHUB!
+OFICINA VERSIONAMENTO DE CÓDIGO: GIT E GITHUB
 
 INSTRUTOR: João Baganha
-
-
 
 Esse é o arquivo de texto da Oficina que receberá o nome dos participantes:
 
