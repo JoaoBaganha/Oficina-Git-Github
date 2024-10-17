@@ -1,3 +1,9 @@
+OFICINA VERSIONAMENTO DE CÓDIGO COM GIT E GITHUB
+
+INSTRUTOR: João Pedro 1
+
+
+
 Esse é o arquivo de texto da Oficina que receberá o nome dos participantes:
 
 - Yago
