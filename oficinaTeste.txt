@@ -1,0 +1,5 @@
+Esse é o arquivo de texto da Oficina que receberá o nome dos participantes:
+
+- Yago
+- João Pedro 2
+- Murilo
